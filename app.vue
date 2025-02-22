@@ -2,4 +2,4 @@
   <UContainer>
     <NuxtPage/>
   </UContainer>
-</template>
+</template> 
